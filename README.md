@@ -1,4 +1,4 @@
-# Apartment-Management
+# Apartment Management
 
 This repository is an ASP.NET Core Zero project.
 
