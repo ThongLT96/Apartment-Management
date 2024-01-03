@@ -46,7 +46,7 @@ Here is the directory tree
 	        /Users
 	          /UserConsts.cs
 
-I have skipped some tiny files similar to the above. I also take part in the "Bill" and "Apartment" modules but nothing is worth mentioning.
+I have skipped some tiny files containing similar contents as the above. I also take part in the "Bill" and "Apartment" modules but nothing is worth mentioning.
 
 It's a pity that my other C# projects including Windows Forms were all lost after I changed my laptop, and those projects had been done long ago (since 2016 or 2017). This is the only project that relates to the C# .NET that I can show you, wish you can consider me for the C# Fresher Developer position.
 
