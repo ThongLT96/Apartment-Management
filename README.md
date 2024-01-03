@@ -21,30 +21,35 @@ In each file, there may be pairs of communication blocks to mark my edited or ad
 
 Here is the directory tree
 
-/BACKEND
-/src
-/Framework.Application
---/Authorization
-----/Accounts
-----/AccountAppService.cs
---/Users
-----/UserAppService.cs
-/Framework.Application.Shared
---/Authorization
-----/Accounts
-----/Dto
-------/ResisterInput.cs
-/Framework.Core
---/Authorization
-----/Users
-------/UserEmailer.cs
-------/UserRegistrationManager.cs
-----/AppAuthorizationProvider.cs
-----/AppPermissions.cs
-/Framework.Core.Shared
---/Authorization
-----/Users
-------/UserConsts.cs
+	/BACKEND
+ 	  /src
+  	    /Framework.Application
+	      /Authorization
+	        /Accounts
+	          /AccountAppService.cs
+	        /Users
+	          /UserAppService.cs
+	    /Framework.Application.Shared
+	      /Authorization
+	        /Accounts
+	          /Dto
+	            /ResisterInput.cs
+	    /Framework.Core
+	      /Authorization
+	        /Users
+	          /UserEmailer.cs
+	          /UserRegistrationManager.cs
+	        /AppAuthorizationProvider.cs
+	        /AppPermissions.cs
+	    /Framework.Core.Shared
+	      /Authorization
+	        /Users
+	          /UserConsts.cs
 
-My last words:
-I have skipped some tiny files similar to the above. I also take part in the "Bill" and "Apartment" modules but nothing is worth mentioning. It's a pity that my other C# projects are all lost because I did it long ago (from 2016 or 2017). This is the only project that relates to the C# .NET that I can show you, wish you can consider me for the C# Fresher Developer position.
+I have skipped some tiny files similar to the above. I also take part in the "Bill" and "Apartment" modules but nothing is worth mentioning.
+
+It's a pity that my other C# projects including Windows Forms were all lost after I changed my laptop, and those projects had been done long ago (since 2016 or 2017). This is the only project that relates to the C# .NET that I can show you, wish you can consider me for the C# Fresher Developer position.
+
+If you are still confused about my ability, may I ask for a short training period? Please give me your response by this email [thonglt96@gmail.com] or through Mr.Thanh as you usually do.
+
+Thank you for your time and consideration.
